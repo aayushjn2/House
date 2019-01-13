@@ -87,11 +87,11 @@ YrSold: |Year Sold
 SaleType: |Type of sale
 SaleCondition: |Condition of sale
 
-***Before Data Cleaning***
+***Before Data Cleaning***(missing Data present)
 
 ![picture alt](https://github.com/aayushjn2/House/blob/master/BeforeDataCleaning.png)
 
-***After Data Cleaning***
+***After Data Cleaning***(Missing Data absent)
 ![picture alt](https://github.com/aayushjn2/House/blob/master/AfterDataCleaning.png)
 
 ***Heat Map of Given Data***
