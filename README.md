@@ -86,3 +86,6 @@ MoSold: |Month Sold
 YrSold: |Year Sold
 SaleType: |Type of sale
 SaleCondition: |Condition of sale
+
+
+Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
