@@ -41,6 +41,13 @@ all_data_na = (all_data.isnull().sum() / len(all_data)) * 100
 all_data_na = all_data_na.drop(all_data_na[all_data_na == 0].index).sort_values(ascending=False)[:30]
 missing_data = pd.DataFrame({'Missing Ratio' :all_data_na})
 
+""" HeatMap
+corrmat = train.corr()
+plt.subplots(figsize=(12,9))
+sns.heatmap(corrmat, vmax=0.9, square=True)
+"""
+
+
 all_data["PoolQC"] = all_data["PoolQC"].fillna("None")
 all_data["MiscFeature"] = all_data["MiscFeature"].fillna("None")
 all_data["Alley"] = all_data["Alley"].fillna("None")
