@@ -87,5 +87,9 @@ YrSold: |Year Sold
 SaleType: |Type of sale
 SaleCondition: |Condition of sale
 
+***Before Data Cleaning***
 
-Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+![picture alt](https://github.com/aayushjn2/House/blob/master/BeforeDataCleaning.png)
+
+***After Data Cleaning***
+![picture alt](https://github.com/aayushjn2/House/blob/master/AfterDataCleaning.png)
