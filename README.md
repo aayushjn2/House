@@ -1,5 +1,6 @@
 # House
 
-This project will cleanUp the data using feature engineering with the help of various statistics model and concepts.
+This project will cleanUp the data using feature engineering with the help of various statistics model and concepts.\n\n\n\n
 The resulted data can now futher be used for house prediction by aaplying various machine learning models.
+
 
