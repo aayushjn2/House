@@ -95,4 +95,7 @@ SaleCondition: |Condition of sale
 ![picture alt](https://github.com/aayushjn2/House/blob/master/AfterDataCleaning.png)
 
 ***Heat Map of Given Data***
+
+
+
 ![picture alt](https://github.com/aayushjn2/House/blob/master/HeatMapBeforeDataCleaning.png)
